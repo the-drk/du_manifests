@@ -144,6 +144,8 @@
 
   <!-- Prebuilts -->
   <project path="prebuilts/build-tools" name="android_prebuilts_build-tools" remote="du" />
+  <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-elf" name="AOSPA/android_prebuilts_gcc_linux-x86_aarch64_aarch64-elf" remote="github" revision="master" clone-depth="1" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi" name="AOSPA/android_prebuilts_gcc_linux-x86_arm_arm-eabi" remote="github"revision="master" clone-depth="1" />
 
   <!-- System -->
   <project path="system/bt" name="platform_system_bt" remote="aw" />
