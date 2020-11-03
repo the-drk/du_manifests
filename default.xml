@@ -91,7 +91,7 @@
   <project path="device/ti/beagle_x15" name="device/ti/beagle-x15" groups="device,beagle_x15,pdk" />
   <project path="device/ti/beagle_x15-kernel" name="device/ti/beagle-x15-kernel" groups="device,beagle_x15,pdk" clone-depth="1" />
   <project path="external/ARMComputeLibrary" name="platform/external/ARMComputeLibrary" groups="pdk" />
-  <project path="external/aac" name="platform/external/aac" groups="pdk" />
+  <project path="external/aac" name="AOSP-whatever/platform_external_aac" groups="pdk" remote="github" revision="du-q10x" />
   <project path="external/adeb" name="platform/external/adeb" groups="pdk" />
   <project path="external/adhd" name="platform/external/adhd" groups="pdk" />
   <project path="external/adt-infra" name="platform/external/adt-infra" groups="adt-infra,notdefault,pdk-fs" />
@@ -242,7 +242,7 @@
   <project path="external/libdrm" name="platform/external/libdrm" groups="pdk" />
   <project path="external/libese" name="platform/external/libese" groups="pdk" />
   <project path="external/libevent" name="platform/external/libevent" groups="pdk" />
-  <project path="external/libexif" name="platform/external/libexif" groups="pdk" />
+  <project path="external/libexif" name="AOSP-whatever/platform_external_libexif" groups="pdk" remote="github" revision="du-q10x"/>
   <project path="external/libffi" name="platform/external/libffi" groups="pdk" />
   <project path="external/libgav1" name="platform/external/libgav1" groups="pdk" />
   <project path="external/libgsm" name="platform/external/libgsm" groups="pdk" />
@@ -581,7 +581,7 @@
   <project path="packages/apps/Car/libs" name="platform/packages/apps/Car/libs" groups="pdk-fs" />
   <project path="packages/apps/Car/tests" name="platform/packages/apps/Car/tests" groups="pdk-fs" />
   <project path="packages/apps/CarrierConfig" name="platform/packages/apps/CarrierConfig" groups="pdk-cw-fs,pdk-fs" />
-  <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" groups="pdk-cw-fs,pdk-fs" />
+  <project path="packages/apps/CellBroadcastReceiver" name="AOSP-whatever/platform_packages_apps_CellBroadcastReceiver" groups="pdk-cw-fs,pdk-fs" remote="github" revision="du-q10x" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/apps/Contacts" name="platform/packages/apps/Contacts" groups="pdk-fs" />
   <project path="packages/apps/DeskClock" name="platform/packages/apps/DeskClock" groups="pdk-fs" />
@@ -733,8 +733,8 @@
   <project path="system/libvintf" name="platform/system/libvintf" groups="pdk" />
   <project path="system/linkerconfig" name="platform/system/linkerconfig" groups="pdk" />
   <project path="system/media" name="platform/system/media" groups="pdk" />
-  <project path="system/netd" name="platform/system/netd" groups="pdk" />
-  <project path="system/nfc" name="platform/system/nfc" groups="pdk" />
+  <project path="system/netd" name="AOSP-whatever/platform_system_netd" groups="pdk" remote="github" revision="du-q10x" />
+  <project path="system/nfc" name="AOSP-whatever/platform_system_nfc" groups="pdk" remote="github" revision="du-q10x" />
   <project path="system/nvram" name="platform/system/nvram" groups="pdk" />
   <project path="system/security" name="platform/system/security" groups="pdk" />
   <project path="system/sepolicy" name="platform/system/sepolicy" groups="pdk" />
