@@ -58,7 +58,7 @@
   <project path="frameworks/av" name="platform_frameworks_av" remote="aw" />
   <project path="frameworks/base" name="platform_frameworks_base" remote="aw" />
   <project path="frameworks/native" name="platform_frameworks_native" remote="aw" />
-  <project path="frameworks/opt/net/wifi" name="android_frameworks_opt_net_wifi" remote="du" />
+  <project path="frameworks/opt/net/wifi" name="platform_frameworks_opt_net_wifi" remote="aw" />
   <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="du" />
 
   <!-- General -->
