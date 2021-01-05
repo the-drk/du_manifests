@@ -47,7 +47,7 @@
   <project path="external/ant-wireless/antradio-library" name="android_external_ant-wireless_antradio-library" remote="los"/>
   <project path="external/e2fsprogs" name="android_external_e2fsprogs" remote="du" />
   <project path="external/google" name="android_external_google" remote="du" />
-  <project path="external/gptfdisk" name="android_external_gptfdisk" remote="du" />
+  <project path="external/gptfdisk" name="platform_external_gptfdisk" remote="aw" />
   <project path="external/json-c" name="android_external_json-c" remote="los" />
   <project path="external/libbfqio" name="platform_external_libbfqio" remote="aw" revision="android-10.0.0" />
   <project path="external/pulse" name="android_external_pulse" remote="du" />
