@@ -35,9 +35,9 @@
   <project path="kernel/wingtech/msm8916" name="rahifm/android_kernel_wingtech_msm8916" remote="github" revision="lineage-17.1" />
   <project path="vendor/wingtech" name="rahifm/proprietary_vendor_wingtech" remote="github" revision="lineage-17.1" />
   <!-- Redmi Note 4X (mido) -->
-  <project path="device/xiaomi/mido" name="rahifm/device_xiaomi_mido" remote="github" revision="du-q10x-4.9" />
-  <project path="kernel/xiaomi/msm8953" name="rahifm/android_kernel_xiaomi_msm8953" remote="github" revision="lineage-17.1-4.9" />
-  <project path="vendor/xiaomi" name="rahifm/proprietary_vendor_xiaomi" remote="github" revision="du-q10x-4.9" />
+  <project path="device/xiaomi/mido" name="rahifm/device_xiaomi_mido" remote="github" revision="du-q10x" />
+  <project path="kernel/xiaomi/msm8953" name="rahifm/android_kernel_xiaomi_msm8953" remote="github" revision="LA.UM.8.6.r1" />
+  <project path="vendor/xiaomi" name="rahifm/proprietary_vendor_xiaomi" remote="github" revision="du-q10x" />
   <!-- POCO F1 (beryllium) -->
   <project path="device/xiaomi/beryllium" name="rahifm/android_device_xiaomi_beryllium" remote="github" revision="du-q10x" />
   <project path="device/xiaomi/sdm845-common" name="rahifm/android_device_xiaomi_sdm845-common" remote="github" revision="du-q10x" />
