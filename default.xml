@@ -121,7 +121,7 @@
   <project path="external/capstone" name="platform/external/capstone" groups="pdk" />
   <project path="external/catch2" name="platform/external/catch2" groups="pdk" />
   <project path="external/cblas" name="platform/external/cblas" groups="pdk" />
-  <project path="external/chromium-libpac" name="platform/external/chromium-libpac" groups="pdk" />
+  <project path="external/chromium-libpac" name="platform_external_chromium-libpac" groups="pdk" remote="aw" revision="staging/du-q10x_asb_2021-06" />
   <project path="external/chromium-trace" name="platform/external/chromium-trace" groups="pdk" />
   <project path="external/chromium-webview" name="platform/external/chromium-webview" groups="pdk" clone-depth="1" />
   <project path="external/clang" name="platform/external/clang" groups="pdk" />
@@ -228,7 +228,7 @@
   <project path="external/kotlinc" name="platform/external/kotlinc" groups="pdk" />
   <project path="external/ksoap2" name="platform/external/ksoap2" groups="pdk" />
   <project path="external/libaom" name="platform_external_libaom" groups="pdk" remote="aw" />
-  <project path="external/libavc" name="platform_external_libavc" groups="pdk" remote="aw" />
+  <project path="external/libavc" name="platform_external_libavc" groups="pdk" remote="aw" revision="staging/du-q10x_asb_2021-06" />
   <project path="external/libbackup" name="platform/external/libbackup" groups="pdk" />
   <project path="external/libbrillo" name="platform/external/libbrillo" groups="pdk" />
   <project path="external/libcap" name="platform/external/libcap" groups="pdk" />
@@ -431,7 +431,7 @@
   <project path="external/universal-tween-engine" name="platform/external/universal-tween-engine" />
   <project path="external/ukey2" name="platform/external/ukey2" groups="pdk" />
   <project path="external/v4l2_codec2" name="platform/external/v4l2_codec2" groups="pdk" />
-  <project path="external/v8" name="platform_external_v8" groups="pdk" remote="aw" />
+  <project path="external/v8" name="platform_external_v8" groups="pdk" remote="aw" revision="staging/du-q10x_asb_2021-06" />
   <project path="external/vboot_reference" name="platform/external/vboot_reference" groups="vboot,pdk-fs" />
   <project path="external/virglrenderer" name="platform/external/virglrenderer" groups="pdk" />
   <project path="external/vixl" name="platform/external/vixl" groups="pdk" />
@@ -444,7 +444,7 @@
   <project path="external/wayland-protocols" name="platform/external/wayland-protocols" groups="pdk" />
   <project path="external/webp" name="platform/external/webp" groups="pdk,qcom_msm8x26" />
   <project path="external/webrtc" name="platform/external/webrtc" groups="pdk" />
-  <project path="external/wpa_supplicant_8" name="platform_external_wpa_supplicant_8" groups="pdk" remote="aw" />
+  <project path="external/wpa_supplicant_8" name="platform_external_wpa_supplicant_8" groups="pdk" remote="aw" revision="staging/du-q10x_asb_2021-06" />
   <project path="external/wycheproof" name="platform/external/wycheproof" groups="pdk" />
   <project path="external/xmp_toolkit" name="platform/external/xmp_toolkit" groups="pdk" />
   <project path="external/xz-embedded" name="platform/external/xz-embedded" groups="pdk" />
