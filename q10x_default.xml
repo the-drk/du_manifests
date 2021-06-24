@@ -136,7 +136,7 @@
   <!-- System -->
   <project path="system/bt" name="platform_system_bt" remote="aw" revision="staging/du-q10x_asb_2021-06" />
   <project path="system/core" name="platform_system_core" remote="aw" />
-  <project path="system/libhidl" name="platform_system_libhidl" remote="aw" />
+  <!-- project path="system/libhidl" name="android_system_libhidl" remote="du" /-->
   <project path="system/sepolicy" name="platform_system_sepolicy" remote="aw" />
   <project path="system/update_engine" name="android_system_update_engine" remote="du" />
   <project path="system/vold" name="platform_system_vold" remote="aw" />
